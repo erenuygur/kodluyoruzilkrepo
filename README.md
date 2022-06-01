@@ -23,5 +23,5 @@ istediginizi tartışmak için bir konu açınız.
 # License
 [MIT](https://opensource.org/licenses/MIT)
 # Image
-![alt text](https://i.hizliresim.com/5xamhq5.PNG)
+![alt text](https://i.hizliresim.com/svz6bp1.png)
 ### Bu güzel egitim için [Patika](https://app.patika.dev/courses/git) ve [Kodluyoruz](https://app.patika.dev/courses/git) `a  teşekkürlerimi sunuyorum .
